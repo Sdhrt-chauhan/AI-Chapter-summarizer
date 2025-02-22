@@ -1,0 +1,11 @@
+# Project Dependencies for AI Chapter Summarizer
+
+# Core Libraries
+PyPDF2         # PDF text extraction
+transformers   # Hugging Face NLP models
+torch         # PyTorch for deep learning
+
+# GUI and Utility
+tkinter       # GUI for user interaction
+asyncio       # Asynchronous processing
+threading     # Multithreading for smooth performance
