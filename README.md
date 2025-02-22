@@ -29,6 +29,9 @@ pip install -r requirements.txt
 ```
 
 ## Usage
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sdhrt-chauhan/AI-Chapter-summarizer/blob/main/AI_chapter_summarizer.py)
+
+Click the badge above to run this project directly on **Google Colab**.
 1. Run the application:
    ```bash
    python AI_chapter_summarizer.py
