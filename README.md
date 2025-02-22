@@ -19,7 +19,7 @@ Make sure you have Python installed. If not, download it from [python.org](https
 ### Steps to Install
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/AI-PDF-Summarizer.git
+git clone https://github.com/Sdhrt-chauhan/AI-Chapter-summarizer.git
 
 # Navigate to the project directory
 cd AI-PDF-Summarizer
@@ -61,7 +61,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Student at Galgotias University
 
 ## Support
-For any issues, feel free to raise an [issue](https://github.com/your-username/AI-PDF-Summarizer/issues) or contact me.
+For any issues, feel free to raise an [issue](https://github.com/Sdhrt-chauhan/AI-Chapter-summarizer/issues) or contact me.
 
 🚀 **Happy Summarizing!**
 
